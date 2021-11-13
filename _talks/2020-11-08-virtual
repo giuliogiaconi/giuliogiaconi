@@ -1,0 +1,13 @@
+---
+title: "Project POLAR: Portraying OnLine hARm"
+collection: talks
+type: "Hackathon Presentation"
+permalink: /talks/2020-11-08-virtual
+venue: "Hack Hate 2020"
+date: 2020-11-08
+location: "Virtual"
+---
+
+[Recording of the presentation](https://www.youtube.com/watch?v=xDyxznaKjCQ&t=46m12s)
+
+This was the presentation for my team's hackathon project. In our project, POLAR - Portraying OnLine hARm, we portrayed negativity on Twitter by building a dashboard to illustrate trends of tweet sentiments about 4 themes: LGBTQ+, Politics, Immigration and Environment in 2015/2016 and 2019/2020 - our dashboard can be found [here](https://project-polar.herokuapp.com/) and our code is on [GitHub](https://github.com/pcarugno/hackhate_polar)
